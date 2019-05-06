@@ -1,7 +1,5 @@
 {
-	"data": {
-			"tollbooth_id": "{{ta_tollbooth_id}}",
+	"tollbooth_id": "{{ta_tollbooth_id}}",
 			"user_id":  "{{pu_user_id}}",
 			"vehicle_id":  "{{vehicle_id}}"
-	}
 }
